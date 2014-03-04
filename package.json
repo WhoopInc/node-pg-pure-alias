@@ -1,0 +1,19 @@
+{
+  "name": "pg",
+  "version": "1.0.0",
+  "description": "alias for pg.js to force Knex to use pure-JS PostgreSQL bindings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WhoopInc/node-pg"
+  },
+  "author": "Whoop, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WhoopInc/node-pg/issues"
+  },
+  "homepage": "https://github.com/WhoopInc/node-pg"
+}
