@@ -43,3 +43,9 @@ var pg = require("pg");
 [pg.js]: https://github.com/brianc/node-postgres-pure
 [knex]: https://github.com/tgriesser/knex
 [peer-dep]: http://blog.nodejs.org/2013/02/07/peer-dependencies/
+
+## It's not in NPM!
+We're shadowing the official NPM 'pg' package!
+
+If you're concerned about depending on this GitHub repository,
+fork this repository and host the package under your own namespace.
