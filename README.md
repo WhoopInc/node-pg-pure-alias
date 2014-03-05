@@ -1,4 +1,4 @@
-# node-pg
+# node-pg-pure-alias
 
 A `pg` alias for [pg.js][pg.js].
 
@@ -27,7 +27,7 @@ If you forget to depend on pg.js yourself, node-pg will blow up when you try to
 ```json
 {
   "dependencies": {
-    "pg": "git+https://github.com/WhoopInc/node-pg.git#1.0.0",
+    "pg": "git+https://github.com/WhoopInc/node-pg-pure-alias.git#1.0.0",
     "pg.js": "x.x.x",
     "..."
   }
