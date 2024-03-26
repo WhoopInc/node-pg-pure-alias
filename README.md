@@ -1,5 +1,8 @@
 # node-pg-pure-alias
 
+## Notice
+This repository is no longer maintained as of 3/26/2024.
+
 A `pg` alias for [pg.js][pg.js].
 
 ## Why?
